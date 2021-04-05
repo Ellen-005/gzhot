@@ -9,4 +9,4 @@ git config -- global user email  'XXXX@qq.com'
 git config -- global user name  'Ellen'
 
 红色是新增或者修改的文件
- 
+绿色是已经管理起来 
